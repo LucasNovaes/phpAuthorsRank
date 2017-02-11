@@ -1,16 +1,20 @@
 # Authors Rank Page
-Algorithm in PHP of authors rank based on the number of articles published on a website based on Wordpress platform.
+Displays authors rank based on the number of articles published.
+IMPORTANT: This solution is specific for websites based on WordPress (https://wordpress.org/) .
 
-IMPORTANT: You need a website based on Wordpress platform because this solution is specific for it.
-
+= = =
 Tutorial:
 
-1 - Clone this repository;
+1 - Download this source code;
 
-2 - Copy source code file (page_rank.php) for "../wp-content/themes/your_theme_name".
+2 - Copy the file (page_rank.php) for "../wp-content/themes/your_theme_name".
 
-3 - Open this page and check.
+3 - Open page and check.
 :)
+= = =
 
 Your contribution is welcome for optimized this code.
+Contact me:
+lucasmnovaes@gmail.com
+
 Thanks!
