@@ -3,6 +3,7 @@ Displays authors rank based on the number of articles published.
 IMPORTANT: This solution is specific for websites based on WordPress (https://wordpress.org/) .
 
 = = =
+
 Tutorial:
 
 1 - Download this source code;
@@ -11,9 +12,11 @@ Tutorial:
 
 3 - Open page and check.
 :)
+
 = = =
 
 Your contribution is welcome for optimized this code.
+
 Contact me:
 lucasmnovaes@gmail.com
 
