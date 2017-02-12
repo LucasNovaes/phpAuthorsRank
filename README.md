@@ -1,4 +1,4 @@
-# Authors Rank Page
+# phpAuthorsRank
 Displays authors rank based on the number of articles published.
 IMPORTANT: This solution is specific for websites based on WordPress (https://wordpress.org/) .
 
