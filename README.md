@@ -10,8 +10,9 @@ Tutorial:
 
 2 - Copy the file (page_rank.php) for "../wp-content/themes/your_theme_name".
 
-3 - Open page and check.
-:)
+3 - Create new page on website with Model > Rank
+
+4 - Save and see the result.
 
 = = =
 
